@@ -1,10 +1,7 @@
-<<<<<<< Updated upstream
-hello world, thanks, you da bestt
-=======
-<<<<<<< HEAD
-hello world, thanks, you da best
-cc
-=======
-hello world, thanks, you da bestt
->>>>>>> 205a8141df0b660e2f2d5275adea34b88b5ca8c7
->>>>>>> Stashed changes
+Mac did this:
+
+Hello there
+
+Book did this:
+
+qdklsa
